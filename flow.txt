@@ -1,0 +1,6 @@
+Create a new Branch
+Make changes and add Commits
+Open a Pull Request
+Review
+Deploy
+Merge
